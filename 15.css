@@ -1,0 +1,21 @@
+
+#gamefield {
+	width: 250px;
+	height: 250px;
+}
+
+.playButton {
+	border: 1px solid white;
+	width: 25%;
+	height: 25%;
+	font: inherit;
+	cursor: pointer;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#clear {
+	color: white;
+	background-color: white;
+}
